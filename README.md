@@ -1,7 +1,7 @@
 # GRC & TPRM Portfolio | ROLFIN
 
 > Entry-level GRC Risk Assessment & Third-Party Risk Management (TPRM) candidate | Bengaluru, India
-> M.Sc. Digital Forensics & Information Security | BCA
+> M.Sc. Digital Forensics & Information Security | Bachelor of Computer Applications 
 
  rolfin202@gmail.com
 
