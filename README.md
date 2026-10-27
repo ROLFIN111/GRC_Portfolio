@@ -22,8 +22,8 @@ Three simulated case studies showing how I assess vendor risk, score IT risk and
 
 
 ## Start here 
-1. Read [Assessment report](./VNDR_Risk_Assessment
-/VNDR Risk assessment Report.pdf).
+1. 1. Open the [VNDR Risk Assessment Folder](./VNDR_Risk_Assessment/)
+
 
 
 
